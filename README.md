@@ -1,6 +1,5 @@
 # salaryWorker
-Professor Nelio (Udemi)
-
+Aula do Professor Nelio Alves(Udemy)
 Programa em Java que calcula horas trabalhadas de um funcionário dentro de um contrato válido,
 lê o departamento de um certo departamento,
 lê o nome de um funcionário,
